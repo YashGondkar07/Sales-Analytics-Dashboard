@@ -89,7 +89,7 @@ The dataset contains:
 
 ### Main Dashboard
 
-<img src="Screenshots/dashboard.png" width="100%">
+<img src="C:\Users\YASH\OneDrive\Desktop\Sales Analytics Project\dashboard.png" width="100%">
 
 ---
 
@@ -149,12 +149,3 @@ Sales-Analytics-Dashboard
 
 Aspiring Data Analyst | Power BI Developer | Data Analytics Enthusiast
 
-### Connect With Me
-
-* LinkedIn: Add Your LinkedIn Link
-* Portfolio: Add Your Portfolio Link
-* GitHub: Add Your GitHub Link
-
----
-
-⭐ If you found this project useful, consider giving it a star!
