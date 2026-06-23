@@ -89,7 +89,7 @@ The dataset contains:
 
 ### Main Dashboard
 
-<img src="C:\Users\YASH\OneDrive\Desktop\Sales Analytics Project\dashboard.png" width="100%">
+<img src="dashboard.png" width="100%">
 
 ---
 
